@@ -12,11 +12,11 @@ namespace ConsoleUI
 		{
 			#region Entity Fonksiyonları
 			//AracFonksiyonu();
-			//ModelFonksiyonu();
+		    //ModelFonksiyonu();
 			//RenkFonksiyonu();
 			//MusteriFonksiyonu();
 			//KullaniciFonksiyonu();
-			RentalFonksiyonu();
+			//RentalFonksiyonu();
 
 
 
